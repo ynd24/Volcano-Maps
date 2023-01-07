@@ -85,4 +85,4 @@ for el, cntry, ty, yr, nm, lt, ln, dhts in zip(elev2, country, type2, year, name
 map.add_child(fg)
 map.add_child(fg2)
 map.add_child(folium.LayerControl())
-map.save("Map_html_popup_advanced.html")
+map.save("Volcanoe's-Map.html")
